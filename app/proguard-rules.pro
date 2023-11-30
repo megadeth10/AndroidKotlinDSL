@@ -1,0 +1,3 @@
+-include '../proguard/proguard-rule-android.pro'
+-include '../proguard/proguard-rule-coroutine.pro'
+-include '../proguard/proguard-rule-glide.pro'
